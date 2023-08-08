@@ -1,3 +1,3 @@
 # Tiny-Boom
 
-comming soon. 
+Learn from [ssloy/tinykaboom](https://github.com/ssloy/tinykaboom)
